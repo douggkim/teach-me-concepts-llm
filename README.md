@@ -1,7 +1,4 @@
 # Teach Me Concepts LLM
-
-Owner: DOUG KIM
-
 # 1. Goal & Background
 
 **1) Goal** 

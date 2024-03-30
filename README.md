@@ -60,3 +60,9 @@ topics = {
 ```
 poetry python3 run main.py
 ```
+
+# 5. Check output 
+1) It will look something like this
+![image](https://github.com/douggkim/teach-me-concepts-llm/assets/54276417/ec7b0d6c-8612-40c1-917f-37f3030b809b)
+
+
